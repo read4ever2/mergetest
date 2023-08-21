@@ -1,2 +1,4 @@
 # mergetest
-# this is the main brach before a merge
+
+
+this is the result of the file after barch has been merged
